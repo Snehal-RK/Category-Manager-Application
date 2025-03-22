@@ -44,7 +44,7 @@
 							</div>
 							<div>
 								<a class="btn btn-primary mt-3" href="AddCategory.jsp"> BACK </a>
-								<a class="btn btn-primary mt-3 float-right" href="deleteCategory.jsp"> DELETE CATEGORY </a>
+								<a class="btn btn-primary mt-3 float-right" href="deleteCategory.jsp"> MANAGE CATEGORY </a>
 							</div>
 							
 						</div>
