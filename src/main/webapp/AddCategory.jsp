@@ -108,35 +108,6 @@
 			// Clear msg container's content when input changes
 			msgContainer.innerHTML = "";
 		});
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 	</script>
 </body>
 </html>
