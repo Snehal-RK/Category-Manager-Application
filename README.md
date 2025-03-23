@@ -50,15 +50,15 @@ MySQL Database:
 
 <br>
 
-*_Functional Overview_*:
-	The system presents a web interface where users can:
- 		*Add* a new category: They will enter the category name in a form, and the system will store it in the database.
-   		*View* existing categories: The system will display a table containing all the categories stored in the database.
-     		*Delete* a category: Users can select a category from the list and delete it from the database.
+### *_Functional Overview_*: <br>
+The system presents a web interface where users can: <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;*Add* a new category: They will enter the category name in a form, and the system will store it in the database. <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;*View* existing categories: The system will display a table containing all the categories stored in the database. <br>
+&ensp;&ensp;&ensp;&ensp;&ensp;*Delete* a category: Users can select a category from the list and delete it from the database. <br>
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
-*Output* :
+### *Output* :
 
 - Adding new category to the datatabase
 ![Image](https://github.com/user-attachments/assets/181387ec-94c2-41a4-b918-8c4ed3db7b76)
